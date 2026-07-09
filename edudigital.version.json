@@ -3,5 +3,6 @@
   "buildNumber": "97",
   "packageName": "vn.edusoft.edudigital",
   "version": "1.8.20",
-  "maintenance": 1
+  "maintenance": 1,
+  "lmsOrgCodes": ["thpt_abc", "dhxyz"]
 }
