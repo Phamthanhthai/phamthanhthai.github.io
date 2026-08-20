@@ -5,5 +5,5 @@
   "version": "1.9.1",
   "maintenance": 1,
   "lmsOrgCodes": ["thpt_abc", "dhxyz"],
-  "tin_tuc": "on"
+  "tin_tuc": "off"
 }
