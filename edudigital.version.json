@@ -1,8 +1,8 @@
 {
   "appName": "Edusoft.vn",
-  "buildNumber": "104",
+  "buildNumber": "108",
   "packageName": "vn.edusoft.edudigital",
-  "version": "1.9.2",
+  "version": "1.9.6",
   "maintenance": 1,
   "lmsOrgCodes": ["thpt_abc", "dhxyz"],
   "tin_tuc": "off"
